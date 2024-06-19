@@ -1,19 +1,19 @@
 ---
-title: The blog of the little coffee bean that has made a long journey from Colombia
+title: The little coffee bean that made the long journey from Colombia to the UK
 date: 2016-07-28
 description: How are our brains wired for friendship?
 categories:
   - friendship
   - science
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: betty
+author_staff_member: Black Betty Bam-a-lam. 
 ---
 
-In the typical sequence of an individual's emotional development, friendships come after parental bonding and before pair bonding. In the intervening period between the end of early childhood and the onset of full adulthood, friendships are often the most important relationships in the emotional life of the adolescent, and are often more intense than relationships later in life. The absence of friends can be emotionally damaging.
+Read on to find out how such a small coffee bean was able to roll her way around various countries to make her way from Columbia to the UK, to be turned into the most delicious coffee to be drunk by a very cute couple who go by the name of Jurgen and Lettie - or their ship name - Jettie. 
 
 ![Fair](https://source.unsplash.com/random/1500x1000)
 
-## Evolution
+## Cwaffee 
 
 The evolutionary psychology approach to human development has led to the theory of Dunbar's number, proposed by British anthropologist Robin Dunbar. He theorized that there is a limit of approximately 150 people with whom a human can maintain stable social relationships.
 
