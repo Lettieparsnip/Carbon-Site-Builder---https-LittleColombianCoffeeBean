@@ -1,5 +1,5 @@
 ---
-title: Psychology of friendship
+title: The blog of the little coffee bean that has made a long journey from Colombia
 date: 2016-07-28
 description: How are our brains wired for friendship?
 categories:
