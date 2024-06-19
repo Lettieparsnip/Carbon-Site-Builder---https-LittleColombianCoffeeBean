@@ -1,7 +1,7 @@
 ---
 Title: About
 description: We've built an amazing team of developers, marketers, designers and sales people.
-image: https://unsplash.com/photos/ai-generated-portrait-of-a-model-with-polka-dot-shirt-pF8mmOdb1KI
+image: ![image](https://unsplash.com/photos/ai-generated-portrait-of-a-model-with-polka-dot-shirt-pF8mmOdb1KI)
 ---
 
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
